@@ -13,4 +13,7 @@ Artificial Intelligence
 
 R language
 
+Javascript
+PHP
+
 Thank You :)
