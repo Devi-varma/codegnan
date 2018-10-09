@@ -8,3 +8,5 @@ Java
 Html
 CSS
 Machine Learning
+
+Artificial Intelligence
